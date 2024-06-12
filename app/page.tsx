@@ -13,19 +13,8 @@ interface Question {
   link: string;
 }
 
-export async function getData(problemClass?: string) {
-  if (
-    problemClass === undefined ||
-    problemClass == null ||
-    problemClass == ""
-  ) {
-    return data;
-  }
-  const filteredData = data.filter(
-    (question: Question) =>
-      question.class === decodeURIComponent(problemClass).replaceAll('"', "")
-  );
-  return filteredData;
+export async function getData() {
+  return data;
 }
 
 export default async function Home({
@@ -36,9 +25,15 @@ export default async function Home({
   searchParams: { [key: string]: string | string[] | undefined };
 }) {
   const problemClass = searchParams["class"];
-  const questions_list = await getData(
-    problemClass ? encodeURIComponent(problemClass as string) : ""
-  );
+  const questions_data = await getData();
+
+  const questions_list =
+    problemClass == undefined || problemClass == ""
+      ? questions_data
+      : questions_data.filter(
+          (question: Question) =>
+            question.class === (problemClass as string).replaceAll('"', "")
+        );
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
