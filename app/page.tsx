@@ -13,7 +13,7 @@ interface Question {
   link: string;
 }
 
-export async function getData() {
+async function getData() {
   return data;
 }
 
