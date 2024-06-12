@@ -1,0 +1,1236 @@
+[
+  {
+    "id": 1603,
+    "name": "Symmetric Difference",
+    "preview": "Learn about sets as a data type.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true"
+  },
+  {
+    "id": 1605,
+    "name": "XML 1 - Find the Score",
+    "preview": "Learn about XML parsing in Python.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific", "XML"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/xml-1-find-the-score/problem?isFullScreen=true"
+  },
+  {
+    "id": 1621,
+    "name": "Decorators 2 - Name Directory",
+    "preview": "Use decorators to build a name directory.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "Core CS",
+      "Language-Specific",
+      "Closures and Decorators"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true"
+  },
+  {
+    "id": 1377,
+    "name": "Finding the percentage",
+    "preview": "Store a list of students and marks in a dictionary, and find the average marks obtained by a student.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Python Tutorials",
+      "python",
+      "Data Types",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true"
+  },
+  {
+    "id": 1620,
+    "name": "Standardize Mobile Number Using Decorators",
+    "preview": "Use decorators to standardize mobile numbers.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "Core CS",
+      "Language-Specific",
+      "Closures and Decorators"
+    ],
+    "class": "Decorators",
+    "link": "https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem?isFullScreen=true"
+  },
+  {
+    "id": 1373,
+    "name": "Find a string",
+    "preview": "Find the number of occurrences of a substring in a string.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "Python Tutorials",
+      "python",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true"
+  },
+  {
+    "id": 1371,
+    "name": "What's Your Name?",
+    "preview": "Python string practice: Print your name in the console.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "Python Tutorials",
+      "python",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Basic Syntax",
+    "link": "https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true"
+  },
+  {
+    "id": 1654,
+    "name": "Class 2 - Find the Torsional Angle",
+    "preview": "Find the angle between two planes.",
+    "difficulty_name": "Easy",
+    "tag_names": ["Classes", "python", "Core CS", "Language-Specific"],
+    "class": "Geometry",
+    "link": "https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true"
+  },
+  {
+    "id": 1564,
+    "name": "Map and Lambda Function",
+    "preview": "This challenge covers the basic concept of maps and lambda expressions.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Python Tutorials",
+      "python",
+      "Core CS",
+      "Language-Specific",
+      "Functionals"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true"
+  },
+  {
+    "id": 7888,
+    "name": "Lists",
+    "preview": "Perform different list operations.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Data Types", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true"
+  },
+  {
+    "id": 7889,
+    "name": "Tuples ",
+    "preview": "Learn about tuples and compute hash(T).",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Data Types", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true"
+  },
+  {
+    "id": 9870,
+    "name": "sWAP cASE",
+    "preview": "Swap the letter cases of a given string. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonist 2",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true"
+  },
+  {
+    "id": 8057,
+    "name": "String Split and Join",
+    "preview": "Use Python's split and join methods on the input string.",
+    "difficulty_name": "Easy",
+    "tag_names": ["Strings", "python", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true"
+  },
+  {
+    "id": 7890,
+    "name": "Mutations",
+    "preview": "Understand immutable vs mutable by making changes to a given string.",
+    "difficulty_name": "Easy",
+    "tag_names": ["Strings", "python", "Core CS", "Language-Specific"],
+    "class": "Variables and Datatypes",
+    "link": "https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true"
+  },
+  {
+    "id": 11742,
+    "name": "String Validators",
+    "preview": "Identify the presence of alphanumeric characters, alphabetical characters, digits, lowercase and uppercase characters in a string.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonist tutorial",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Strings",
+    "link": "https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true"
+  },
+  {
+    "id": 9953,
+    "name": "Text Alignment",
+    "preview": "Generate the Hackerrank logo with alignments in Python.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonist tutorials",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true"
+  },
+  {
+    "id": 11766,
+    "name": "Text Wrap",
+    "preview": "Wrap the given text in a fixed width.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonists tutorial",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Basic Syntax",
+    "link": "https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true"
+  },
+  {
+    "id": 9629,
+    "name": "Designer Door Mat",
+    "preview": "Print a designer door mat.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonista 2",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true"
+  },
+  {
+    "id": 8059,
+    "name": "String Formatting",
+    "preview": "Print the formatted decimal, octal, hexadecimal, and binary values for $n$ integers.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "Core CS",
+      "General Programming",
+      "Language-Specific"
+    ],
+    "class": "Typecasting",
+    "link": "https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true"
+  },
+  {
+    "id": 14245,
+    "name": "Alphabet Rangoli",
+    "preview": "Let's draw rangoli.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonist 3",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Other",
+    "link": "https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true"
+  },
+  {
+    "id": 14254,
+    "name": "Capitalize!",
+    "preview": "Capitalize Each Word.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonist 3",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true"
+  },
+  {
+    "id": 11684,
+    "name": "itertools.product()",
+    "preview": "Find the cartesian product of 2 sets. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonist tutorials",
+      "Core CS",
+      "Language-Specific",
+      "Itertools"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true"
+  },
+  {
+    "id": 11694,
+    "name": "collections.Counter()",
+    "preview": "Use a counter to sum the amount of money earned by the shoe shop owner. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonist tutorial",
+      "collections",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Basic Syntax",
+    "link": "https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true"
+  },
+  {
+    "id": 11685,
+    "name": "itertools.permutations()",
+    "preview": "Find all permutations of a given size in a given string.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonist tutorials",
+      "Core CS",
+      "Language-Specific",
+      "Itertools"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true"
+  },
+  {
+    "id": 9951,
+    "name": "Polar Coordinates",
+    "preview": "Convert complex numbers to polar coordinates",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonist tutorials",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Basic Syntax",
+    "link": "https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true"
+  },
+  {
+    "id": 9375,
+    "name": "Introduction to Sets",
+    "preview": "Use the set tool to compute the average. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python-sets",
+      "python",
+      "set",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true"
+  },
+  {
+    "id": 8386,
+    "name": "DefaultDict Tutorial",
+    "preview": "Create dictionary value fields with predefined data types.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "collections", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true"
+  },
+  {
+    "id": 9649,
+    "name": "Calendar Module",
+    "preview": "Print the day of a given date.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonista 2",
+      "Core CS",
+      "Language-Specific",
+      "Date and Time"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true"
+  },
+  {
+    "id": 11765,
+    "name": "Exceptions",
+    "preview": "Handle errors detected during execution.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "Python Tutorials",
+      "python",
+      "Core CS",
+      "Language-Specific",
+      "Errors and Exceptions Handling"
+    ],
+    "class": "Exceptions",
+    "link": "https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true"
+  },
+  {
+    "id": 11955,
+    "name": "Collections.namedtuple()",
+    "preview": "You need to turn tuples into convenient containers using collections.namedtuple().",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "collections", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true"
+  },
+  {
+    "id": 11975,
+    "name": "Collections.OrderedDict()",
+    "preview": "Print a dictionary of items that retains its order.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "collections", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true"
+  },
+  {
+    "id": 11692,
+    "name": "itertools.combinations()",
+    "preview": "Print all the combinations of a string using itertools.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonist tutorial",
+      "Core CS",
+      "Language-Specific",
+      "Itertools"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true"
+  },
+  {
+    "id": 12191,
+    "name": "Incorrect Regex",
+    "preview": "Check whether the regex is valid or not.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "Core CS",
+      "Language-Specific",
+      "Errors and Exceptions Handling"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true"
+  },
+  {
+    "id": 9406,
+    "name": "Set .add() ",
+    "preview": "Add elements to set.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true"
+  },
+  {
+    "id": 11693,
+    "name": "itertools.combinations_with_replacement()",
+    "preview": "Find all the combinations of a string with replacements.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonist tutorial",
+      "Core CS",
+      "Language-Specific",
+      "Itertools"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true"
+  },
+  {
+    "id": 9415,
+    "name": "Set .discard(), .remove() and .pop()",
+    "preview": "Different ways to omit set elements.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true"
+  },
+  {
+    "id": 11976,
+    "name": "Collections.deque()",
+    "preview": "Perform multiple operations on a double-ended queue or deque.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "collections", "Core CS", "Language-Specific"],
+    "class": "Heaps, Stacks and Queues",
+    "link": "https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true"
+  },
+  {
+    "id": 9417,
+    "name": "Set .union() Operation",
+    "preview": "Use the .union() operator to determine the number of students.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true"
+  },
+  {
+    "id": 9419,
+    "name": "Set .intersection() Operation",
+    "preview": "Use the .intersection() operator to determine the number of same students in both sets. ",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true"
+  },
+  {
+    "id": 7887,
+    "name": "Mod Divmod",
+    "preview": "Get the quotient and remainder using the divmod operator in Python.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true"
+  },
+  {
+    "id": 7885,
+    "name": "Power - Mod Power",
+    "preview": "Perform modular exponentiation in Python. ",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true"
+  },
+  {
+    "id": 9420,
+    "name": "Set .difference() Operation",
+    "preview": "Use the .difference() operator to check the differences between  sets.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true"
+  },
+  {
+    "id": 7882,
+    "name": "Integers Come In All Sizes",
+    "preview": "Exercises with big integers in Python.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true"
+  },
+  {
+    "id": 9421,
+    "name": "Set .symmetric_difference() Operation",
+    "preview": "Making symmetric difference of sets.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?isFullScreen=true"
+  },
+  {
+    "id": 9457,
+    "name": "Set Mutations",
+    "preview": "Using various operations, change the content of a set and output the new sum.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true"
+  },
+  {
+    "id": 9060,
+    "name": "The Captain's Room ",
+    "preview": "Out of a list of room numbers, determine the number of the captain's room.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Variables and Datatypes",
+    "link": "https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true"
+  },
+  {
+    "id": 9022,
+    "name": "Check Subset",
+    "preview": "Verify if set A is a subset of set B.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true"
+  },
+  {
+    "id": 9456,
+    "name": "Check Strict Superset",
+    "preview": "Check if A is a strict superset of the other given sets.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true"
+  },
+  {
+    "id": 11741,
+    "name": "Zipped!",
+    "preview": "Compute the average by zipping data.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "pythonist tutorials",
+      "Core CS",
+      "Language-Specific",
+      "Python Builtins"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true"
+  },
+  {
+    "id": 12190,
+    "name": "Input()",
+    "preview": "A Python 2 challenge: Input() is equivalent to eval(raw_input(prompt)).",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Python Builtins"],
+    "class": "Variables and Datatypes",
+    "link": "https://www.hackerrank.com/challenges/input/problem?isFullScreen=true"
+  },
+  {
+    "id": 8531,
+    "name": "Python Evaluation",
+    "preview": "Evaluate the expressions in Python using the expression eval().",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Python Builtins"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true"
+  },
+  {
+    "id": 12189,
+    "name": "Any or All",
+    "preview": "Return True, if any of the iterable is true or if all of it is true using the any() and all() expressions.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Python Builtins"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true"
+  },
+  {
+    "id": 12177,
+    "name": "Detect Floating Point Number",
+    "preview": "Validate a floating point number using the regular expression module for Python.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true"
+  },
+  {
+    "id": 12182,
+    "name": "Re.split()",
+    "preview": "Split the string by the pattern occurrence using the re.split() expression.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true"
+  },
+  {
+    "id": 12183,
+    "name": "Group(), Groups() and Groupdict()",
+    "preview": "Using group(), groups(), and groupdict(), find the subgroup(s) of the match.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true"
+  },
+  {
+    "id": 12184,
+    "name": "Re.findall() and Re.finditer()",
+    "preview": "Find all the pattern matches using the expressions re.findall() and re.finditer().",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/re-findall-re-finditer/problem?isFullScreen=true"
+  },
+  {
+    "id": 12185,
+    "name": "Re.start() and Re.end()",
+    "preview": "Find the indices of the start and end of the substring matched by the group.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "RegEx",
+    "link": "https://www.hackerrank.com/challenges/re-start-re-end/problem?isFullScreen=true"
+  },
+  {
+    "id": 1604,
+    "name": "Validating Roman Numerals",
+    "preview": "Use regex to validate Roman numerals.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Regular Expressions",
+    "link": "https://www.hackerrank.com/challenges/validate-a-roman-number/problem?isFullScreen=true"
+  },
+  {
+    "id": 1558,
+    "name": "Validating phone numbers",
+    "preview": "Check whether the given phone number is valid or not.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Typecasting, Exceptions",
+    "link": "https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true"
+  },
+  {
+    "id": 12109,
+    "name": "Validating and Parsing Email Addresses",
+    "preview": "Print valid email addresses according to the constraints.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/validating-named-email-addresses/problem?isFullScreen=true"
+  },
+  {
+    "id": 9714,
+    "name": "Hex Color Code",
+    "preview": "Validate Hex color codes in CSS.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "RegEx",
+      "python",
+      "pythonist 2",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/hex-color-code/problem?isFullScreen=true"
+  },
+  {
+    "id": 11657,
+    "name": "HTML Parser - Part 1",
+    "preview": "Parse HTML tags, attributes and attribute values using HTML Parser.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "RegEx",
+      "python",
+      "pythonist tutorial",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/html-parser-part-1/problem?isFullScreen=true"
+  },
+  {
+    "id": 11665,
+    "name": "HTML Parser - Part 2",
+    "preview": "Parse HTML comments and data using HTML Parser.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "RegEx",
+      "python",
+      "pythonist tutorial",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Core CS",
+    "link": "https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=true"
+  },
+  {
+    "id": 9719,
+    "name": "Detect HTML Tags, Attributes and Attribute Values",
+    "preview": "Parse HTML tags, attributes and attribute values in this challenge.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "RegEx",
+      "python",
+      "pythonist 2",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=true"
+  },
+  {
+    "id": 12187,
+    "name": "Validating UID ",
+    "preview": "Validate all the randomly generated user identification numbers according to the constraints.",
+    "difficulty_name": "Easy",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Conditionals",
+    "link": "https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true"
+  },
+  {
+    "id": 5176,
+    "name": "Arrays",
+    "preview": "Convert a list to an array using the NumPy package. ",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "wave 4", "numpy", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true"
+  },
+  {
+    "id": 8094,
+    "name": "Shape and Reshape",
+    "preview": "Using the shape and reshape tools available in the NumPy module, configure a list according to the guidelines. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "shape-and-reshape",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true"
+  },
+  {
+    "id": 13496,
+    "name": "Transpose and Flatten",
+    "preview": "Use the transpose and flatten tools in the NumPy module to manipulate an array.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Transpose and Flatten",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays",
+    "link": "https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true"
+  },
+  {
+    "id": 13497,
+    "name": "Concatenate",
+    "preview": "Use the concatenate function on 2 arrays.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Concatenate",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/np-concatenate/problem?isFullScreen=true"
+  },
+  {
+    "id": 13498,
+    "name": "Zeros and Ones",
+    "preview": "Print an array using the zeros and ones tools in the NumPy module. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Zeros and Ones",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays and Linked Lists",
+    "link": "https://www.hackerrank.com/challenges/np-zeros-and-ones/problem?isFullScreen=true"
+  },
+  {
+    "id": 13499,
+    "name": "Eye and Identity",
+    "preview": "Create an array using the identity or eye tools from the NumPy module. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Eye and Identity",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays and Linked Lists",
+    "link": "https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true"
+  },
+  {
+    "id": 13500,
+    "name": "Array Mathematics",
+    "preview": "Perform basic mathematical operations on arrays in NumPy.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Array Mathematics",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays and Linked Lists",
+    "link": "https://www.hackerrank.com/challenges/np-array-mathematics/problem?isFullScreen=true"
+  },
+  {
+    "id": 13501,
+    "name": "Floor, Ceil and Rint",
+    "preview": "Use the floor, ceil and rint tools of NumPy on the given array.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Floor Ceil and Rint",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays and Linked Lists",
+    "link": "https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true"
+  },
+  {
+    "id": 13502,
+    "name": "Sum and Prod",
+    "preview": "Perform the sum and prod functions of NumPy on the given 2-D array.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Sum and Prod",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/np-sum-and-prod/problem?isFullScreen=true"
+  },
+  {
+    "id": 13503,
+    "name": "Min and Max",
+    "preview": "Use the min and max tools of NumPy on the given 2-D array. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Min and Max",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays and Linked Lists",
+    "link": "https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true"
+  },
+  {
+    "id": 13504,
+    "name": "Mean, Var, and Std",
+    "preview": "Use the mean, var and std tools in NumPy on the given 2-D array. ",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Mean Var and Std",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays and Linked Lists",
+    "link": "https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true"
+  },
+  {
+    "id": 13505,
+    "name": "Dot and Cross",
+    "preview": "Use NumPy to find the dot and cross products of arrays.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Dot and Cross",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays",
+    "link": "https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=true"
+  },
+  {
+    "id": 13506,
+    "name": "Inner and Outer",
+    "preview": "Use NumPy to find the inner and outer product of arrays.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Inner and Outer",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Arrays",
+    "link": "https://www.hackerrank.com/challenges/np-inner-and-outer/problem?isFullScreen=true"
+  },
+  {
+    "id": 13507,
+    "name": "Polynomials",
+    "preview": "Given the coefficients, use polynomials in NumPy.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Polynomials",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true"
+  },
+  {
+    "id": 13508,
+    "name": "Linear Algebra",
+    "preview": "NumPy routines for linear algebra calculations.",
+    "difficulty_name": "Easy",
+    "tag_names": [
+      "python",
+      "numpy",
+      "Statistics",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=true"
+  },
+  {
+    "id": 1652,
+    "name": "XML2 - Find the Maximum Depth",
+    "preview": "Find the maximum depth in an XML document.",
+    "difficulty_name": "Easy",
+    "tag_names": ["python", "Core CS", "Language-Specific", "XML"],
+    "class": "Sorting Algorithms",
+    "link": "https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem?isFullScreen=true"
+  },
+  {
+    "id": 1565,
+    "name": "Validating Email Addresses With a Filter ",
+    "preview": "This question covers the concept of filters.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Functionals"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true"
+  },
+  {
+    "id": 9693,
+    "name": "The Minion Game",
+    "preview": "Given a string, judge the winner of the minion game.",
+    "difficulty_name": "Medium",
+    "tag_names": [
+      "Strings",
+      "python",
+      "pythonist 2",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true"
+  },
+  {
+    "id": 8703,
+    "name": "Merge the Tools!",
+    "preview": " Split a string into subsegments of length $k$, then print each subsegment with any duplicate characters stripped out.",
+    "difficulty_name": "Medium",
+    "tag_names": ["Strings", "python", "Core CS", "Language-Specific"],
+    "class": "Basic Syntax",
+    "link": "https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true"
+  },
+  {
+    "id": 8212,
+    "name": "Time Delta",
+    "preview": "Find the absolute time difference.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Date and Time"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true"
+  },
+  {
+    "id": 9668,
+    "name": "Find Angle MBC",
+    "preview": "Find the desired angle in the right triangle.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "pythonist 2", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true"
+  },
+  {
+    "id": 8382,
+    "name": "No Idea!",
+    "preview": "Compute your happiness.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "set", "Core CS", "Language-Specific"],
+    "class": "Basic Syntax",
+    "link": "https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true"
+  },
+  {
+    "id": 8385,
+    "name": "Word Order",
+    "preview": "List the number of occurrences of the words in order.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "collections", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true"
+  },
+  {
+    "id": 8702,
+    "name": "Compress the String! ",
+    "preview": " groupby()",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Itertools"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true"
+  },
+  {
+    "id": 9698,
+    "name": "Company Logo",
+    "preview": "Print the number of character occurrences in descending order.",
+    "difficulty_name": "Medium",
+    "tag_names": [
+      "python",
+      "pythonist 2",
+      "collections",
+      "Language Proficiency",
+      "Core Skills"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true"
+  },
+  {
+    "id": 8380,
+    "name": "Piling Up!",
+    "preview": "Create a vertical pile of cubes.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "collections", "Core CS", "Language-Specific"],
+    "class": "Heaps, Stacks and Queues",
+    "link": "https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true"
+  },
+  {
+    "id": 12523,
+    "name": "Triangle Quest 2",
+    "preview": "Create a palindromic triangle.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "pythonist 3", "Core CS", "Language-Specific"],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true"
+  },
+  {
+    "id": 8679,
+    "name": "Iterables and Iterators",
+    "preview": " Find the probability using itertools.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Itertools"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true"
+  },
+  {
+    "id": 7944,
+    "name": "Triangle Quest",
+    "preview": "Print a numeric triangle of height N-1 using only 2 lines.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "Core CS", "Language-Specific"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true"
+  },
+  {
+    "id": 1653,
+    "name": "Classes: Dealing with Complex Numbers",
+    "preview": "Create a new data type for complex numbers.",
+    "difficulty_name": "Medium",
+    "tag_names": ["Classes", "python", "Core CS", "Language-Specific"],
+    "class": "Variables and Datatypes",
+    "link": "https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true"
+  },
+  {
+    "id": 8203,
+    "name": "Athlete Sort",
+    "preview": "Sort the table on the kth attribute.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Python Builtins"],
+    "class": "Sorting Algorithms",
+    "link": "https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true"
+  },
+  {
+    "id": 12499,
+    "name": "ginortS",
+    "preview": "An uneasy sort.",
+    "difficulty_name": "Medium",
+    "tag_names": [
+      "python",
+      "pythonist 3",
+      "Core CS",
+      "Language-Specific",
+      "Python Builtins"
+    ],
+    "class": "Sorting Algorithms",
+    "link": "https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true"
+  },
+  {
+    "id": 11637,
+    "name": "Regex Substitution",
+    "preview": "Substitute a string using regex tools.",
+    "difficulty_name": "Medium",
+    "tag_names": [
+      "RegEx",
+      "python",
+      "pythonist tutorial",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem?isFullScreen=true"
+  },
+  {
+    "id": 12186,
+    "name": "Validating Credit Card Numbers",
+    "preview": "Verify whether credit card numbers are valid or not.",
+    "difficulty_name": "Medium",
+    "tag_names": ["RegEx", "python", "Core CS", "Language-Specific"],
+    "class": "Conditionals",
+    "link": "https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true"
+  },
+  {
+    "id": 29250,
+    "name": "Reduce Function",
+    "preview": "Python Practice",
+    "difficulty_name": "Medium",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Functionals"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true"
+  },
+  {
+    "id": 66426,
+    "name": "Words Score",
+    "preview": "Calculate the total score of the list of words.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python"],
+    "class": "Variables and Datatypes",
+    "link": "https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true"
+  },
+  {
+    "id": 66403,
+    "name": "Default Arguments",
+    "preview": "Debug a function which uses a default value for one of its arguments.",
+    "difficulty_name": "Medium",
+    "tag_names": ["python"],
+    "class": "Functions and Built-in functions",
+    "link": "https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true"
+  },
+  {
+    "id": 8696,
+    "name": "Maximize It!",
+    "preview": "Find the maximum possible value out of the equation provided.",
+    "difficulty_name": "Hard",
+    "tag_names": ["python", "Core CS", "Language-Specific", "Itertools"],
+    "class": "Basic Syntax",
+    "link": "https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true"
+  },
+  {
+    "id": 12538,
+    "name": "Validating Postal Codes",
+    "preview": "Verify if the postal code is valid or invalid.",
+    "difficulty_name": "Hard",
+    "tag_names": [
+      "RegEx",
+      "python",
+      "pythonist 3",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Conditionals",
+    "link": "https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=true"
+  },
+  {
+    "id": 12524,
+    "name": "Matrix Script",
+    "preview": "Decode the Matrix.",
+    "difficulty_name": "Hard",
+    "tag_names": [
+      "RegEx",
+      "python",
+      "pythonist 3",
+      "Core CS",
+      "Language-Specific"
+    ],
+    "class": "Lists, Tuples, Sets, Dictionaries",
+    "link": "https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true"
+  }
+]
